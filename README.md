@@ -1,16 +1,65 @@
-## Hi there 👋
+# Gabriel Ferreira Pereira
 
-<!--
-**Gabriel-Ferreira-Pereira/Gabriel-Ferreira-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudande de Programação`**
 
-Here are some ideas to get you started:
+Tenho 18 anos e sou de São Palo. Terminei o ensino médio na E.E. Ana Rodrigues de Liso e atualmente estou cursando o PROPROFISSÃO de programação em C# do Instituto Proa no Senac da Lapa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="left">
+      <a href="https://github.com/Gabriel-Ferreira-Pereira?tab=followers">
+         <img alt="followers" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gabriel-Ferreira-Pereira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"/></a>
+      <a href="https://github.com/Gabriel-Ferreira-Pereira?tab=repositories">
+         <img alt="total stars" title="Todas as estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Gabriel-Ferreira-Pereira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+   </p>
+
+---
+
+### Linguagens Aprendidas
+
+
+<img
+    align="left"
+    alt="HTML5"
+    title="HTML5"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+
+<img
+    align="left"
+    alt="CSS3"
+    title="CSS3"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### Estatísticas
+
+
+<img
+    aling="left"
+    alt="Status do GitHub"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ferreira-Pereira&show_icons=true&theme=highcontrast&locale=pt-br"
+/>
+
+<img
+    aling="left"
+    alt="Status do GitHub"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ferreira-Pereira&show_icons=true&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=3"
+/>
