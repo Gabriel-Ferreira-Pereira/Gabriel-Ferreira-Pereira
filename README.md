@@ -2,7 +2,7 @@
 
 **`Estudande de Programação`**
 
-Tenho 18 anos e sou de São Palo. Terminei o ensino médio na E.E. Ana Rodrigues de Liso e atualmente estou cursando o PROPROFISSÃO de programação em C# do Instituto Proa no Senac da Lapa.
+18/09/2006 - Carapicuíba/SP. Ensino Médio completo na E.E. Ana Rodrigues de Liso, conclui o PROPROFISSÃO de Programação e Desenvolvimento Web .NET do Instituto Proa no Senac da Lapa.
 
  <p align="left">
       <a href="https://github.com/Gabriel-Ferreira-Pereira?tab=followers">
