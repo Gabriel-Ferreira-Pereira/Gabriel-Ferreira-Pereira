@@ -43,6 +43,24 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+
+<img
+    align="left"
+    alt="CSharp"
+    title="CSharp"
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
 <br/>
 <br/>
 
